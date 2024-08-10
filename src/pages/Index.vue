@@ -1,5 +1,5 @@
 <template>
-   <main class="max-w-screen-xl px-4 py-4 lg:px-8 mx-auto">
+   <main>
         <Navbar />
         <DigitalArts />
         <AmazingNft />
